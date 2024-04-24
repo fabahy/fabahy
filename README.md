@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bao Huy</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Typescript, Golang**
+- 🌱 I’m currently learning **Typescript, Nest**
 
-- 💬 Ask me about **Nodejs, Vuejs**
+- 💬 Ask me about **Nodejs, Express, React**
 
 - 📫 How to reach me **pbhuy0909@gmail.com**
 
