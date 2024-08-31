@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bao Huy</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Typescript, Nest**
+- 🌱 I’m currently learning **Java, Spring, Spring Boot**
 
 - 💬 Ask me about **Nodejs, Express, React**
 
