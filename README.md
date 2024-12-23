@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Spring Boot**
 
-- 💬 Ask me about **Nodejs, Express, React**
+- 💬 Ask me about **Nodejs, Express, Java, Spring**
 
 - 📫 How to reach me **pbhuy0909@gmail.com**
 
